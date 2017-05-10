@@ -43,3 +43,4 @@ permissions:
   - 'delete own product content'
   - 'view the administration theme'
   - 'access toolbar'
+  - 'access contextual links'
